@@ -1,2 +1,7 @@
-# prd-tugas-android-dasar
-Tugas pembuatan aplikasi Android Dasar PRD Kelas 07. Silahkan cek bagian pada link berikut: https://github.com/emilhamep/prd-tugas-android-dasar/wiki/Tugas-Android untuk deskripsi tugas lebih lanjut.
+16516243 – Rakha Patria Indrasepta Putra
+16516320 – Sarah Az Zahra
+16516351 – Arthur Jogy Maratur Siburian
+
+
+Source:
+http://forcetronic.blogspot.co.id/2014/10/building-android-app-to-communicate.html
